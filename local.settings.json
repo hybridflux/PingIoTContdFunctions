@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "particlepool_DOCUMENTDB": "AccountEndpoint=https://particlepool.documents.azure.com:443/;AccountKey=k5hJaLkAHumuU4muuAtCWIQkuHzCWDNFsER12fLkeL3OfbhaUrfDPGC2cMFMcvN9XlvX2gQbaKECuWfar30Uwg==;",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "WEBSITE_ENCRYPTION_KEY": "hbJ4Dnmh6t9x8s4ltpXva18WuCSIWYfNZoucy+rSpmo=",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "fermionpipe_RootManageSharedAccessKey_SERVICEBUS": "Endpoint=sb://fermionpipe.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=RWMcXABAVLTdbBfvF8xjhp9lYQGDPdfzjQwoWrXmMDs=",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=particleartifacts;AccountKey=TzloRDogv8WBFPebJa7R2DBdHtH6S2ITkg505oW8WYMLNxnpKx9iI/fuCpXUzw68l6SgBC0v6JESOSIMt+lmaA==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=particleartifacts;AccountKey=TzloRDogv8WBFPebJa7R2DBdHtH6S2ITkg505oW8WYMLNxnpKx9iI/fuCpXUzw68l6SgBC0v6JESOSIMt+lmaA==",
+    "WEBSITE_CONTENTSHARE": "storepump81b6",
+    "WEBSITE_SITE_NAME": "StorePump",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=particleartifacts;AccountKey=TzloRDogv8WBFPebJa7R2DBdHtH6S2ITkg505oW8WYMLNxnpKx9iI/fuCpXUzw68l6SgBC0v6JESOSIMt+lmaA=="
+  }
+}

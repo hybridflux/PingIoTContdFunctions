@@ -1,0 +1,23 @@
+{
+  "bindings": [
+    {
+      "name": "mySbMsg",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "topicName": "outtopic",
+      "subscriptionName": "mysubscription",
+      "connection": "fermionpipe_RootManageSharedAccessKey_SERVICEBUS",
+      "accessRights": "Manage"
+    },
+    {
+      "type": "documentDB",
+      "name": "$return",
+      "databaseName": "particles",
+      "collectionName": "MyCollection",
+      "createIfNotExists": true,
+      "connection": "particlepool_DOCUMENTDB",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
